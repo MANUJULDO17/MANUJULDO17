@@ -37,7 +37,9 @@
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/manujuldo17/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=manujuldo17&show_icons=true&locale=en" alt="manujuldo17" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/manujuldo17/github-readme-stats)  ![Manujuldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manujuldo17&show_icons=true&theme=radical)
+
+
 

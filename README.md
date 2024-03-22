@@ -1,7 +1,7 @@
 <h1 align="center">👋 Alooo soy Manuel Julve Doñate</h1>
 <h3 align="center">Soy estudiante de DAM1</h3>
 
-[![MasterHead](https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg)](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
 <!--**MANUJULDO17/MANUJULDO17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 

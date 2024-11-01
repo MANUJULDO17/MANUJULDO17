@@ -41,7 +41,5 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/manujuldo17/github-readme-stats)  ![Manujuldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manujuldo17&show_icons=true&theme=radical)
-
 
 

@@ -1,11 +1,8 @@
 <h1 align="center">👋 ¡Hola! Soy Manuel Julve Doñate</h1>
 <h3 align="center">Estudiante de DAM1</h3>
 
-<p align="center">
-  <img src="https://github.com/Manujuldo17/Manujuldo17/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake"/>
-</p>
+![GitHub Snake](https://github.com/MANUJULDO17/MANUJULDO17/blob/output/github-contribution-grid-snake.svg)
 
----
 
 <h3 align="left">Idiomas y herramientas:</h3>
 <p align="left">

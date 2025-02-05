@@ -1,0 +1,29 @@
+name: Generate Snake
+
+on:
+  schedule:
+    # Ejecuta el workflow una vez al día a las 00:00 UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v2
+
+      - name: Generate Snake
+        uses: Platane/snk@v2.0.0
+        with:
+          github_user_name: MANUJULDO17
+          output: dist/github-contribution-grid-snake.svg
+
+      - name: Push the Snake
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+          force: true
+          file: dist/github-contribution-grid-snake.svg

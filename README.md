@@ -49,6 +49,3 @@
 
 - 🎉 I never stop learning and always strive to improve my skills and knowledge.
 
----
-
-Thanks for visiting my profile! Feel free to reach out if you want to collaborate or just chat. 😊

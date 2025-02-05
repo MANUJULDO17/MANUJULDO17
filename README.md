@@ -1,42 +1,54 @@
-<h1 align="center">👋 ¡Hola! Soy Manuel Julve Doñate</h1>
-<h3 align="center">Estudiante de DAM1</h3>
+# Hi there, I'm Manuel Julve Doñate! 👋
 
-![GitHub Snake](https://github.com/MANUJULDO17/MANUJULDO17/blob/output/github-contribution-grid-snake.svg)
+## About Me
 
+- 🌍 Based in: Teruel
+- 💼 Currently working at: [Your Company]
+- 🎓 Education: [Your Degree], [Your University]
+- 💻 Interests: Software Development, Open Source, Machine Learning
+- ✨ Hobbies: Coding, Gaming, Reading, Traveling
 
-<h3 align="left">Idiomas y herramientas:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-</p>
+## Skills
+
+- **Programming Languages**: Python, JavaScript, Java, C++
+- **Web Development**: HTML, CSS, React, Node.js
+- **Database**: MySQL, MongoDB, PostgreSQL
+- **Tools & Technologies**: Git, Docker, Kubernetes, AWS
+- **Others**: Machine Learning, Data Analysis, Agile Methodologies
+
+## Projects
+
+### [Project 1 Name]
+- **Description**: Brief description of the project.
+- **Technologies Used**: List of technologies used.
+- **GitHub Repository**: [Link to the repository]
+
+### [Project 2 Name]
+- **Description**: Brief description of the project.
+- **Technologies Used**: List of technologies used.
+- **GitHub Repository**: [Link to the repository]
+
+## Get in Touch
+
+- 📧 Email: [Your Email]
+- 💼 LinkedIn: [Your LinkedIn Profile]
+- 🐦 Twitter: [Your Twitter Handle]
+- 🌐 Personal Website: [Your Website]
+
+## GitHub Stats
+
+![Manuel Julve Doñate's GitHub stats](https://github-readme-stats.vercel.app/api?username=MANUJULDO17&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MANUJULDO17&layout=compact&theme=radical)
+
+## Contribution Snake
+
+![Contribution Snake](dist/github-contribution-grid-snake.svg)
+
+## Fun Fact
+
+- 🎉 I never stop learning and always strive to improve my skills and knowledge.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manujuldo17&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Manujuldo17&show_icons=true&theme=radical" alt="Manujuldo's GitHub Stats" />
-</p>
-
-
-
-
-
+Thanks for visiting my profile! Feel free to reach out if you want to collaborate or just chat. 😊
